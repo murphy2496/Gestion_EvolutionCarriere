@@ -5,7 +5,7 @@ class Connexion {
         define('PORT', 1521);
         define('NAME', 'XE');
         define('USER', 'system');
-        define('PASS', 'murphy');
+        define('PASS', '');
 
         $bd_settings = "(DESCRIPTION = 
             (ADDRESS = 
